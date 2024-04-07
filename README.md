@@ -5,21 +5,12 @@ Welcome to the Guess the Number game! This is a simple console-based game where 
 This Python script implements a basic number guessing game. The computer selects a random number between 1 and 100, and the player must guess the number within a limited number of attempts. After each guess, the game provides feedback on whether the guess was too high or too low.
 
 # How to Play
-1. Clone the Repository: Clone this repository to your local machine using Git.
 
-git clone https://github.com/your-username/guess-the-number.git
+1. Run the Game: Execute the Python script to start the game.
 
-2. Navigate to the Directory: Move into the directory containing the game files.
+2. Follow the Instructions: Once the game starts, follow the prompts to guess the number. You have 5 tries to guess the correct number within the range of 1 to 100.
 
-cd guess-the-number
-
-3. Run the Game: Execute the Python script to start the game.
-
-python guess_the_number.py
-
-4. Follow the Instructions: Once the game starts, follow the prompts to guess the number. You have 5 tries to guess the correct number within the range of 1 to 100.
-
-5. Enjoy the Game!: Have fun trying to guess the correct number and challenge yourself to beat your own records.
+3. Enjoy the Game!: Have fun trying to guess the correct number and challenge yourself to beat your own records.
 
 # Features
 -Randomly generates a number within a specified range of 1-100.
