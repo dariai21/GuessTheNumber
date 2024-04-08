@@ -24,9 +24,6 @@ This Python script implements a basic number guessing game. The computer selects
 2. Input validation: The script checks if the user input is a valid number within the specified range.
 3. Looping: While loops are used to control the flow of the game and manage the number of attempts.
 
-# Contributing
-If you have any suggestions, improvements, or issues, feel free to open an issue or create a pull request. Contributions are welcome!
-
 # Live Demo
 You can play the game directly in your browser here:
 
